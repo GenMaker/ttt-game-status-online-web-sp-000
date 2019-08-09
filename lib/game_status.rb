@@ -19,6 +19,7 @@ WIN_COMBINATIONS = [
   [2,5,8]
 ]
 
+
 def won?(board)
 WIN_COMBINATIONS.each do |win|
 # code to show all steps
